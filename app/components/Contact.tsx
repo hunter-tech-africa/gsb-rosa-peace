@@ -76,7 +76,7 @@ export default function Contact() {
                   Adresse / Address
                 </h4>
                 <p className="text-gray-700 leading-relaxed">
-                  Quartier Tongolo derrier le village Noah
+                  Quartier Tongolo Derrière le village Noah
                   <br />
                   Yaoundé - Tongolo
                   <br />

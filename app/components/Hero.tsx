@@ -128,7 +128,7 @@ export default function Hero() {
               />
             </svg>
             <span className="text-sm sm:text-base">
-              Yaoundé - Tongolo, Quartier Tongolo derrier le village Noah
+              Yaoundé - Tongolo, Quartier Tongolo Derrière le village Noah
             </span>
           </div>
         </div>

@@ -80,7 +80,7 @@ export default function Footer() {
                 <span className="text-white/90">
                   Yaoundé - Tongolo
                   <br />
-                  Tongolo derrier le village Noah
+                  Tongolo Derrière le village Noah
                 </span>
               </li>
               <li className="flex items-start gap-2">
