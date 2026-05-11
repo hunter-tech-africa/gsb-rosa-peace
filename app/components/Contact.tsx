@@ -76,7 +76,7 @@ export default function Contact() {
                   Adresse / Address
                 </h4>
                 <p className="text-gray-700 leading-relaxed">
-                  Quartier Ngobassi-Aminedussu
+                  Quartier Tongolo derrier le village Noah
                   <br />
                   Yaoundé - Tongolo
                   <br />
@@ -106,7 +106,7 @@ export default function Contact() {
                 </h4>
                 <div className="space-y-2">
                   <a
-                    href="tel:+237699488181"
+                    href="tel:+237687849295"
                     className="block text-gray-700 hover:text-[#2d7a3e] transition-colors"
                   >
                     (+237) 699 48 81 81
