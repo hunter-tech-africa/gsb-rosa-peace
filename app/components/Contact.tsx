@@ -109,7 +109,7 @@ export default function Contact() {
                     href="tel:+237687849295"
                     className="block text-gray-700 hover:text-[#2d7a3e] transition-colors"
                   >
-                    (+237) 699 48 81 81
+                    (+237) 687849295
                   </a>
                   <a
                     href="tel:+237650371872"

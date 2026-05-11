@@ -97,7 +97,7 @@ export default function Footer() {
                 </svg>
                 <div className="text-white/90">
                   <a href="tel:+237687849295" className="block hover:text-white">
-                    699 48 81 81
+                    687849295
                   </a>
                   <a href="tel:+237650371872" className="block hover:text-white">
                     650 37 18 72

@@ -48,4 +48,4 @@ Pour toute question, contactez:
 For any questions, contact:
 
 Email: contact@gsbrosepeace.com
-Téléphone: (+237) 699 48 81 81
+Téléphone: (+237) 687849295
